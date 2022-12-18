@@ -1,0 +1,1 @@
+INSERT INTO public.pessoa(nome,cidade) VALUES ('elaine','palhoça');
